@@ -15,10 +15,10 @@ http://www.pingtest.net
  
 Parametri minimi
 
-Speedtest
+Speedtest:
 Upload almeno 1mb, download 10mb
  
-Pingtest
+Pingtest:
 B o B*
 
 # Prova
