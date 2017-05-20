@@ -1,1 +1,2 @@
-# prova didattica a distanza
+# prova didattica a distanza 
+istruzioni d'uso
