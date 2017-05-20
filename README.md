@@ -7,7 +7,9 @@
 
 La piattaforma è realizzata con software open source. I codici sono accessibili a tutti coloro che intendono contribuire al suo mantenimento e miglioramento.
 
-Questa versione iniziale è stata realizzata neil'a.a. 2016-17 da Ivano Morrone utilizzando le librerie citate nelle fonti ed è al momento ospitata in un sito non istituzionale, in attesa di poter migrare su una pagina ufficiale del Conservatorio.
+I suoi contenuti e funzionalità sono limitati all'essenziale nel tentativo di poter favorire tempi di latenza il più possibile compatibili con l'esecuzione a distanza.   
+
+Questa versione iniziale è stata realizzata neil'a.a. 2016-17 da Ivano Morrone utilizzando le librerie citate nelle fonti ed è al momento ospitata in un sito non istituzionale, in attesa di poter eventualmente migrare su una pagina ufficiale del Conservatorio.
 
 
 # Prova
@@ -40,7 +42,7 @@ tua voce. Configura il livello del microfono e degli altoparlanti del portatile 
 Concorda un appuntamento on line con il tuo interlocutore
 
 Segui le indicazioni della precedente sezione da "Vai su https://morronei.github.io/morronei.githb.io/" fino alla sua fine.
-Inserisci lo username del tuo interlocutore nel campo 
+Inserisci lo username del tuo interlocutore nel campo "Username da chiamare". Si attivano le due finestre di comunicazione con i rispettivi flussi audio-video.
 
 
 
