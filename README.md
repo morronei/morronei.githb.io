@@ -4,7 +4,7 @@ Brevi istruzioni d'uso
 
 Scaricare ed installare sul proprio sistema operativo Chrome, il browser di Google
 
-Effettuare due test sulla qualità della connessione su
+Effettuare due test sulla qualità della connessione 
 
 http://www.speedtest.net
 e
