@@ -1,6 +1,7 @@
 # Piattaforma per la didattica multimediale a distanza 
 
-Brevi istruzioni d'uso
+# Istruzioni d'uso
+
 
 
 # Informazioni Generali
@@ -21,11 +22,13 @@ Upload almeno 1mb, download 10mb
 Pingtest:
 B o B*
 
+
 # Prova
 
 Connetti un microfono esterno all'uscita audio del computer e abbassa il volume.
 Nel campo xxxxx inserisci un tuo nickname e clicca sull'icona a lato. Se tutto funziona il campo diventa verde. Attiva il microfono e la webcam sulla finestra di richiesta che appare. Puoi ora vederti nell'apposito riquadro e ascoltare la
 tua voce. 
+
 
 # Come procedere
 
