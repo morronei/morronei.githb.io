@@ -1,14 +1,13 @@
-# Piattaforma didattica multimediale a distanza 
+# Piattaforma per la didattica multimediale a distanza 
 
 Brevi istruzioni d'uso
 
 Scaricare ed installare sul proprio sistema operativo Chrome, il browser di Google
 
 Effettuare due test sulla qualità della connessione su
+
 http://www.speedtest.net
-
 e
-
 http://www.pingtest.net 
  
 Parametri minimi
