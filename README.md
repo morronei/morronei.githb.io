@@ -1,7 +1,7 @@
 # Conservatorio di Musica di Cosenza
 # Prove per la realizzazione di una piattaforma per la didattica a distanza 
 
-## .....................
+##
 
 # Informazioni Generali
 
