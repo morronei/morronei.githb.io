@@ -6,7 +6,9 @@ Scaricare ed installare sul proprio sistema operativo Chrome
 
 Effettuare due test sulla qualità della connessione su
 http://www.speedtest.net
+
 e
+
 http://www.pingtest.net 
  
 Parametri minimi
@@ -20,6 +22,7 @@ B o B*
 xxxxxxxxxxx
 
 Connettere un microfono esterno all'input del laptop
+
 Configurare il livello del microfono e dell'altoparlante
 
 
