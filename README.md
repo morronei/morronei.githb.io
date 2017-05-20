@@ -1,9 +1,7 @@
 # Conservatorio di Musica di Cosenza
-# Piattaforma per la didattica multimediale a distanza 
+# Prove per la realizzazione di una piattaforma per la didattica a distanza 
 
-#####
-
-
+##.....................
 
 # Informazioni Generali
 
