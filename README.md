@@ -5,9 +5,16 @@
 
 # Informazioni Generali
 
-Scarica ed installa Chrome, il browser di Google, sul tuo sistema operativo
+La piattaforma è realizzata con software open source. I codici sono accessibili a tutti coloro che intendono contribuire al suo mantenimento e miglioramento.
 
-Effettua due test sulla qualità della connessione 
+Questa versione iniziale è stata realizzata neil'a.a. 2016-17 da Ivano Morrone utilizzando le librerie citate nelle fonti ed è al momento ospitata in un sito non istituzionale, in attesa di poter migrare su una pagina ufficiale del nostro Conservatorio.
+
+
+# Prova
+
+Scarica ed installa Chrome, il browser di Google, sul tuo sistema operativo.
+
+Effettua due test sulla qualità della connessione: 
 
 http://www.speedtest.net
 e
@@ -21,9 +28,7 @@ Upload almeno 1mb, download 10mb
 Pingtest:
 B o B*
 
-
-# Prova
-
+Vai su 
 Connetti un microfono esterno all'uscita audio del computer e abbassa il volume.
 Nel campo xxxxx inserisci un tuo nickname e clicca sull'icona a lato. Se tutto funziona il campo diventa verde. Attiva il microfono e la webcam sulla finestra di richiesta che appare. Puoi ora vederti nell'apposito riquadro e ascoltare la
 tua voce. 
