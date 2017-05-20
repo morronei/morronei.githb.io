@@ -29,6 +29,7 @@ Pingtest:
 B o B*
 
 Vai su https://morronei.github.io/morronei.githb.io/
+
 Connetti un microfono esterno all'uscita audio del computer e abbassa il volume.
 Nel campo xxxxx inserisci un tuo nickname e clicca sull'icona a lato. Se tutto funziona il campo diventa verde. Attiva il microfono e la webcam sulla finestra di richiesta che appare. Puoi ora vederti nell'apposito riquadro e ascoltare la
 tua voce. 
