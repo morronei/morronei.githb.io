@@ -1,5 +1,5 @@
 # Conservatorio di Musica di Cosenza
-# Prove per la realizzazione di una piattaforma per la didattica a distanza 
+# Prove per una piattaforma di didattica a distanza 
 
 ##
 
@@ -31,19 +31,16 @@ B o B*
 Vai su https://morronei.github.io/morronei.githb.io/
 
 Connetti un microfono esterno all'uscita audio del computer e abbassa il volume.
-Nel campo xxxxx inserisci un tuo nickname e clicca sull'icona a lato. Se tutto funziona il campo diventa verde. Attiva il microfono e la webcam sulla finestra di richiesta che appare. Puoi ora vederti nell'apposito riquadro e ascoltare la
-tua voce. 
+Nel campo "tuo Username" inserisci un nome a piacere e clicca sull'icona a lato. Se tutto funziona il campo diventa verde. Attiva il microfono e la webcam sulla finestra di richiesta che appare. Puoi ora vederti nell'apposito riquadro e ascoltare la
+tua voce. Configura il livello del microfono e degli altoparlanti del portatile dal pannello di controllo o preferenze di sistema. Scegli le migliori condizioni di luce per l'inquadratura della webcam oppure modificane i parametri.
 
 
-# Come procedere
+# Comunica
 
-Concordare un appuntamento on line con il proprio interlocutore
-e prima di cliccare sul pulsante connettere un microfono esterno all'input del laptop
+Concorda un appuntamento on line con il tuo interlocutore
 
-Inserire un proprio username e cliccare sull'icona a lato. Se tutto funziona il campo diventa verde. Attivare il microfono e la webcam
+Segui le indicazioni della precedente sezione da "Vai su https://morronei.github.io/morronei.githb.io/" fino alla sua fine.
+Inserisci lo username del tuo interlocutore nel campo 
 
-Configurare il livello del microfono e degli altoparlanti del portatile
-
-Configurare la webcam on board oppure scegliere le migliori condizioni di luce per l'inquadratura
 
 
