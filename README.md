@@ -28,7 +28,7 @@ Speedtest:
 upload almeno 1mb, download 10mb
  
 Pingtest:
-B o B*
+sufficiente se il valore è compreso tra 60 e 80 ms
 
 Vai su https://morronei.github.io/morronei.githb.io/
 
