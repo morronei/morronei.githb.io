@@ -41,8 +41,7 @@ tua voce. Configura il livello del microfono e degli altoparlanti del portatile 
 
 Concorda un appuntamento on line con il tuo interlocutore
 
-Segui le indicazioni della precedente sezione da "Vai su https://morronei.github.io/morronei.githb.io/" fino alla sua fine.
-Inserisci lo username del tuo interlocutore nel campo "Username da chiamare". Si attivano le due finestre di comunicazione con i rispettivi flussi audio-video.
+Segui le indicazioni della precedente sezione da "Vai su https://morronei.github.io/morronei.githb.io/" fino al suo ultimo punto. Inserisci lo username del tuo interlocutore nel campo "Username da chiamare". Si attivano le due finestre di comunicazione con i rispettivi flussi audio-video.
 
 
 
