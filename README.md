@@ -25,7 +25,7 @@ http://www.pingtest.net
 Parametri minimi
 
 Speedtest:
-Upload almeno 1mb, download 10mb
+upload almeno 1mb, download 10mb
  
 Pingtest:
 B o B*
