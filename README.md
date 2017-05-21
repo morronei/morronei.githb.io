@@ -32,8 +32,8 @@ sufficiente se il valore è compreso tra 60 e 80 ms
 
 Vai su https://morronei.github.io/morronei.githb.io/
 
-Connetti un microfono esterno all'uscita audio del computer e abbassa il volume.
-Nel campo "tuo Username" inserisci un nome a piacere e clicca sull'icona a lato. Se tutto funziona il campo diventa verde. Attiva il microfono e la webcam sulla finestra di richiesta che appare. Puoi ora vederti nell'apposito riquadro e ascoltare la
+Connetti un microfono esterno all'ingresso audio del computer e abbassa il volume.
+Nel campo "tuo Username" inserisci un nome a piacere e clicca sull'icona a lato. Se tutto funziona il campo diventa verde. Attiva il microfono e la webcam dalla finestra di richiesta che appare. Puoi ora vederti nell'apposito riquadro e ascoltare la
 tua voce. Configura il livello del microfono e degli altoparlanti del portatile dal pannello di controllo o preferenze di sistema. Scegli le migliori condizioni di luce per l'inquadratura della webcam oppure modificane i parametri.
 
 
